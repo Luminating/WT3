@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+  <student>
+    <firstname>Igor</firstname>
+    <lastname>Klimov</lastname>
+    <age>20</age>
+    <specialty>POIT</specialty>
+    <group>9534002</group>
+  </student>
+<student>
+    <firstname>Pavel</firstname>
+    <lastname>Gordeyuk</lastname>
+    <age>19</age>
+    <specialty>POIT</specialty>
+    <group>951007</group>
+  </student>
+<student>
+    <firstname>Olga</firstname>
+    <lastname>Petrova</lastname>
+    <age>21</age>
+    <specialty>SWT</specialty>
+    <group>7456004</group>
+  </student>
+<student>
+    <firstname>Ivan</firstname>
+    <lastname>Sokolov</lastname>
+    <age>22</age>
+    <specialty>POIT</specialty>
+    <group>951006</group>
+  </student>
+</students>
